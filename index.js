@@ -19,7 +19,7 @@ var filesModified = [] //[string]
 app.post('/', function(req, res){
     console.log(req.body)
 
-    author = req.body.pusher.name
+    author = req.body.head_commit.author.name
     filesAdded = req.body.head_commit.added
     filesModified = req.body.head_commit.modified
 
