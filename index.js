@@ -30,9 +30,9 @@ app.post('/', function(req, res){
 
 app.get('/', (req, res) => {
   var result = ""
-  result += author + "<br/>"
-  result += "Filed Added:" + filesAdded.join(", ") + "<br/>"
-  result += "Filed Modified:" + filesModified.join(", ") + "<br/>"
+  result += "Author" + author + "<br/>"
+  result += "Files Added:" + filesAdded.join(", ") + "<br/>"
+  result += "Files Modified:" + filesModified.join(", ") + "<br/>"
 
   res.send(result)
 })
