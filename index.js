@@ -24,15 +24,15 @@ app.post('/', function(req, res){
     filesModified = req.body.head_commit.modified
 
     console.log("Push!")
-    
+
     res.end()
 });
 
 app.get('/', (req, res) => {
   var result = ""
-  result += author + "\n"
-  result += "Filed Added" + filesAdded.join(", ") + "\n"
-  result += "Filed Modified" + filesModified.join(", ") + "\n"
+  result += author + "<br/>"
+  result += "Filed Added:" + filesAdded.join(", ") + "<br/>"
+  result += "Filed Modified:" + filesModified.join(", ") + "<br/>"
 
   res.send(result)
 })
