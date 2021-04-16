@@ -5,3 +5,195 @@
 [32m[nodemon] starting `node index.js`[39m
 [32m[nodemon] restarting due to changes...[39m
 [32m[nodemon] starting `node index.js`[39m
+{
+  ref: 'refs/heads/master',
+  before: '01a019f29b478f1c229730b52d86a33f0e6fd282',
+  after: '625c8389fde406e5b36706ba3d8eab4beb407f32',
+  repository: {
+    id: 358466569,
+    node_id: 'MDEwOlJlcG9zaXRvcnkzNTg0NjY1Njk=',
+    name: 'zenitsu-push',
+    full_name: 'Amargol/zenitsu-push',
+    private: false,
+    owner: {
+      name: 'Amargol',
+      email: 'amargolshreyas@gmail.com',
+      login: 'Amargol',
+      id: 26072661,
+      node_id: 'MDQ6VXNlcjI2MDcyNjYx',
+      avatar_url: 'https://avatars.githubusercontent.com/u/26072661?v=4',
+      gravatar_id: '',
+      url: 'https://api.github.com/users/Amargol',
+      html_url: 'https://github.com/Amargol',
+      followers_url: 'https://api.github.com/users/Amargol/followers',
+      following_url: 'https://api.github.com/users/Amargol/following{/other_user}',
+      gists_url: 'https://api.github.com/users/Amargol/gists{/gist_id}',
+      starred_url: 'https://api.github.com/users/Amargol/starred{/owner}{/repo}',
+      subscriptions_url: 'https://api.github.com/users/Amargol/subscriptions',
+      organizations_url: 'https://api.github.com/users/Amargol/orgs',
+      repos_url: 'https://api.github.com/users/Amargol/repos',
+      events_url: 'https://api.github.com/users/Amargol/events{/privacy}',
+      received_events_url: 'https://api.github.com/users/Amargol/received_events',
+      type: 'User',
+      site_admin: false
+    },
+    html_url: 'https://github.com/Amargol/zenitsu-push',
+    description: null,
+    fork: false,
+    url: 'https://github.com/Amargol/zenitsu-push',
+    forks_url: 'https://api.github.com/repos/Amargol/zenitsu-push/forks',
+    keys_url: 'https://api.github.com/repos/Amargol/zenitsu-push/keys{/key_id}',
+    collaborators_url: 'https://api.github.com/repos/Amargol/zenitsu-push/collaborators{/collaborator}',
+    teams_url: 'https://api.github.com/repos/Amargol/zenitsu-push/teams',
+    hooks_url: 'https://api.github.com/repos/Amargol/zenitsu-push/hooks',
+    issue_events_url: 'https://api.github.com/repos/Amargol/zenitsu-push/issues/events{/number}',
+    events_url: 'https://api.github.com/repos/Amargol/zenitsu-push/events',
+    assignees_url: 'https://api.github.com/repos/Amargol/zenitsu-push/assignees{/user}',
+    branches_url: 'https://api.github.com/repos/Amargol/zenitsu-push/branches{/branch}',
+    tags_url: 'https://api.github.com/repos/Amargol/zenitsu-push/tags',
+    blobs_url: 'https://api.github.com/repos/Amargol/zenitsu-push/git/blobs{/sha}',
+    git_tags_url: 'https://api.github.com/repos/Amargol/zenitsu-push/git/tags{/sha}',
+    git_refs_url: 'https://api.github.com/repos/Amargol/zenitsu-push/git/refs{/sha}',
+    trees_url: 'https://api.github.com/repos/Amargol/zenitsu-push/git/trees{/sha}',
+    statuses_url: 'https://api.github.com/repos/Amargol/zenitsu-push/statuses/{sha}',
+    languages_url: 'https://api.github.com/repos/Amargol/zenitsu-push/languages',
+    stargazers_url: 'https://api.github.com/repos/Amargol/zenitsu-push/stargazers',
+    contributors_url: 'https://api.github.com/repos/Amargol/zenitsu-push/contributors',
+    subscribers_url: 'https://api.github.com/repos/Amargol/zenitsu-push/subscribers',
+    subscription_url: 'https://api.github.com/repos/Amargol/zenitsu-push/subscription',
+    commits_url: 'https://api.github.com/repos/Amargol/zenitsu-push/commits{/sha}',
+    git_commits_url: 'https://api.github.com/repos/Amargol/zenitsu-push/git/commits{/sha}',
+    comments_url: 'https://api.github.com/repos/Amargol/zenitsu-push/comments{/number}',
+    issue_comment_url: 'https://api.github.com/repos/Amargol/zenitsu-push/issues/comments{/number}',
+    contents_url: 'https://api.github.com/repos/Amargol/zenitsu-push/contents/{+path}',
+    compare_url: 'https://api.github.com/repos/Amargol/zenitsu-push/compare/{base}...{head}',
+    merges_url: 'https://api.github.com/repos/Amargol/zenitsu-push/merges',
+    archive_url: 'https://api.github.com/repos/Amargol/zenitsu-push/{archive_format}{/ref}',
+    downloads_url: 'https://api.github.com/repos/Amargol/zenitsu-push/downloads',
+    issues_url: 'https://api.github.com/repos/Amargol/zenitsu-push/issues{/number}',
+    pulls_url: 'https://api.github.com/repos/Amargol/zenitsu-push/pulls{/number}',
+    milestones_url: 'https://api.github.com/repos/Amargol/zenitsu-push/milestones{/number}',
+    notifications_url: 'https://api.github.com/repos/Amargol/zenitsu-push/notifications{?since,all,participating}',
+    labels_url: 'https://api.github.com/repos/Amargol/zenitsu-push/labels{/name}',
+    releases_url: 'https://api.github.com/repos/Amargol/zenitsu-push/releases{/id}',
+    deployments_url: 'https://api.github.com/repos/Amargol/zenitsu-push/deployments',
+    created_at: 1618544443,
+    updated_at: '2021-04-16T05:22:37Z',
+    pushed_at: 1618550641,
+    git_url: 'git://github.com/Amargol/zenitsu-push.git',
+    ssh_url: 'git@github.com:Amargol/zenitsu-push.git',
+    clone_url: 'https://github.com/Amargol/zenitsu-push.git',
+    svn_url: 'https://github.com/Amargol/zenitsu-push',
+    homepage: null,
+    size: 0,
+    stargazers_count: 0,
+    watchers_count: 0,
+    language: 'JavaScript',
+    has_issues: true,
+    has_projects: true,
+    has_downloads: true,
+    has_wiki: true,
+    has_pages: false,
+    forks_count: 0,
+    mirror_url: null,
+    archived: false,
+    disabled: false,
+    open_issues_count: 8,
+    license: null,
+    forks: 0,
+    open_issues: 8,
+    watchers: 0,
+    default_branch: 'master',
+    stargazers: 0,
+    master_branch: 'master'
+  },
+  pusher: { name: 'Amargol', email: 'amargolshreyas@gmail.com' },
+  sender: {
+    login: 'Amargol',
+    id: 26072661,
+    node_id: 'MDQ6VXNlcjI2MDcyNjYx',
+    avatar_url: 'https://avatars.githubusercontent.com/u/26072661?v=4',
+    gravatar_id: '',
+    url: 'https://api.github.com/users/Amargol',
+    html_url: 'https://github.com/Amargol',
+    followers_url: 'https://api.github.com/users/Amargol/followers',
+    following_url: 'https://api.github.com/users/Amargol/following{/other_user}',
+    gists_url: 'https://api.github.com/users/Amargol/gists{/gist_id}',
+    starred_url: 'https://api.github.com/users/Amargol/starred{/owner}{/repo}',
+    subscriptions_url: 'https://api.github.com/users/Amargol/subscriptions',
+    organizations_url: 'https://api.github.com/users/Amargol/orgs',
+    repos_url: 'https://api.github.com/users/Amargol/repos',
+    events_url: 'https://api.github.com/users/Amargol/events{/privacy}',
+    received_events_url: 'https://api.github.com/users/Amargol/received_events',
+    type: 'User',
+    site_admin: false
+  },
+  created: false,
+  deleted: false,
+  forced: false,
+  base_ref: null,
+  compare: 'https://github.com/Amargol/zenitsu-push/compare/01a019f29b47...625c8389fde4',
+  commits: [
+    {
+      id: '625c8389fde406e5b36706ba3d8eab4beb407f32',
+      tree_id: '73d148f425d67303b549b49d909013fd7a3370f0',
+      distinct: true,
+      message: 'test',
+      timestamp: '2021-04-16T00:23:58-05:00',
+      url: 'https://github.com/Amargol/zenitsu-push/commit/625c8389fde406e5b36706ba3d8eab4beb407f32',
+      author: [Object],
+      committer: [Object],
+      added: [Array],
+      removed: [],
+      modified: [Array]
+    }
+  ],
+  head_commit: {
+    id: '625c8389fde406e5b36706ba3d8eab4beb407f32',
+    tree_id: '73d148f425d67303b549b49d909013fd7a3370f0',
+    distinct: true,
+    message: 'test',
+    timestamp: '2021-04-16T00:23:58-05:00',
+    url: 'https://github.com/Amargol/zenitsu-push/commit/625c8389fde406e5b36706ba3d8eab4beb407f32',
+    author: {
+      name: 'Shreyas Amargol',
+      email: 'shreyasamargol@Shreyas-MacBook-Pro.local'
+    },
+    committer: {
+      name: 'Shreyas Amargol',
+      email: 'shreyasamargol@Shreyas-MacBook-Pro.local'
+    },
+    added: [ 'bob.txt' ],
+    removed: [],
+    modified: [ 'index.js' ]
+  }
+}
+making a change
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
