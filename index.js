@@ -15,6 +15,8 @@ app.use(express.json());
 app.post('/', function(req, res){
     console.log(req.body)
 
+    console.log("making a change")
+
     res.end()
 });
 
